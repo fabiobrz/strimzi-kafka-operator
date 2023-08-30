@@ -5,7 +5,7 @@
     <groupId>io.strimzi</groupId>
     <artifactId>strimzi</artifactId>
     <packaging>pom</packaging>
-    <version>0.37.0-SNAPSHOT</version>
+    <version>0.37.0.k8s-client-681-202308301045-SNAPSHOT</version>  <!-- see https://github.com/strimzi/strimzi-kafka-operator/pull/9041/commits/4368620a41d5a60d57e906a26535787c7dfe5046 -->
 
     <licenses>
         <license>
